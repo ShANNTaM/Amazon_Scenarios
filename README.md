@@ -102,6 +102,18 @@ scenarios/
   ├── hard_recommender_feature_prep.py
 output/
   └── [RESULTS]
+
+## How To Run A Scenario
+
+1. Go to the Solutions/ directory.
+2. Pick your scenario (e.g., easy_product_ratings.py).
+3. Run it in your PySpark environment:
+
+   spark-submit Solutions/easy_product_ratings.py
+
+4. Make sure the required data files are available in data/.
+
+
 README.md
 requirements.txt
 Contributing
