@@ -1,0 +1,1 @@
+Using any product dataset (e.g., All-Appliances.csv), calculate the average rating for each sub_category and list the top 5 sub_categories with the highest average ratings. Exclude rows with missing rating values.
