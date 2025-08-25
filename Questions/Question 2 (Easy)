@@ -1,0 +1,1 @@
+From amazon_reviewsA.csv, find the total number of reviews and the average score provided by users. Group this analysis by the appVersion to understand which app versions receive higher user ratings.
